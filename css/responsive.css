@@ -2,6 +2,9 @@
     .nav-container {
         flex-direction: column;
     }
+    .logo-container{
+         justify-content: center;
+    }
 
     .nav-item-container {
         flex-direction: column;
